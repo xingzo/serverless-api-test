@@ -1,13 +1,7 @@
-# serverless-api-test
-
-What problem does this technology solve?
-How do you use it? (Is there a "cheatsheet" you found or made that others can reference?)
-What did you build?
-
 # ![](https://xingzo.github.io/assets/images/xingzo-crown-white-sm.png) Serverless + AWS Lambda
 
 ## Overview
-- In this morning's session, we'll explore the different technologies used, process/approach, unsolved problems and some wins and challenges that went along in creating my personal about me portfolio site.
+- In this morning's session, we'll explore the different technologies used, process/approach, unsolved problems and some wins and challenges that went along in creating my first serverless app.
 
 
 <a name="jquery"></a>
@@ -18,6 +12,13 @@ Serverless is not really serverless...It is a way of programming that allows dev
 This method is also known as Function as a Service where you are only billed for the compute time you consume - there is no charge when your code is not running.
 
 As per my research on how to deploy a node.js web app, it seems as if going serverless allows you to not worry about managing and provivisoning your servers which will save a lot of time in the end! 
+
+Official Lambda Site
+https://aws.amazon.com/lambda/
+
+Pricing
+https://aws.amazon.com/lambda/pricing/
+    
 
 - Advantages
 	- Pros
@@ -31,12 +32,8 @@ As per my research on how to deploy a node.js web app, it seems as if going serv
 		- new technology so potential for bugs
     - installs alot of packages
     
-    
-https://aws.amazon.com/lambda/
 
-Pricing
-https://aws.amazon.com/lambda/pricing/
-    
+
     
 ## How did I use serverless?
   Created a simple api endpoint that returns a success message in JSON format.
@@ -59,4 +56,16 @@ https://aws.amazon.com/lambda/pricing/
   
   AWS credentials GUI to keep you signed in
   https://github.com/DavidWells/aws-profile-manager
+  
+  
+ #### Not interested in serverless?
+ 
+ 
+ Setting up MERN Stack on AWS EC2 by Keith Weaver
+ 
+ - Youtube
+ https://www.youtube.com/watch?v=GKIIL743Gjo
+ 
+ - Medium
+ https://medium.com/@Keithweaver_/setting-up-mern-stack-on-aws-ec2-6dc599be4737
   
