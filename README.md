@@ -69,7 +69,7 @@ https://aws.amazon.com/lambda/pricing/
  https://medium.com/@Keithweaver_/setting-up-mern-stack-on-aws-ec2-6dc599be4737
  
  
- ## How to set up youe static front end website
+ ## How to set up your static front end website on AWS
  
  https://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html
  
